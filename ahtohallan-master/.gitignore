@@ -1,0 +1,23 @@
+# Ignore everything
+*
+
+# Unignore all files with an extension
+!*.*
+
+# Unignore all directories
+!*/
+
+# Ignore files with .out extension
+*.out
+
+# Ignore pdf files
+*.pdf
+
+# Ignore all image files (Risky!)
+*.png
+*.jpg
+*.jpeg
+
+# Ignore all code files
+*.cpp
+

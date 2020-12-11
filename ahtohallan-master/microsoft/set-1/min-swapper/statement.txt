@@ -1,0 +1,2 @@
+Find the minimum number of **adjacent** swaps required to make a string palindrome. Return -1 if not possible.
+
